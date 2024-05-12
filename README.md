@@ -20,7 +20,7 @@ Sin embargo, mi verdadera pasión siempre fue la tecnología. Lo que comenzó co
 > - **2022** Curso de Diseño UX-UI en Codo a codo - Agencia de Aprendizaje | Photoshop, Figma, Canva.
 > - **2022** Curso de fullstack con Metodología Scrum en Codo a codo - Agencia de Aprendizaje | Bootstrap, Python y Django.
 > - **2023** Tecnicatura Superior en Desarrollo de Software - Instituto de Formación Técnica Superior Nº 29. _Cursando actualmente._
-> - **2024** Formación Oracle Next Education - Alura Latam. _Cursando actualmente._
+> - **2024** Formación Oracle ONE - Alura Latam. _Cursando actualmente._
 > - **2024** Curso de Testing QA en Codo a codo - Agencia de Aprendizaje. _Cursando actualmente._
 
 Mi camino no ha sido lineal, pero mi determinación me ha impulsado a seguir adelante. Soy una persona creativa, apasionada y con una gran capacidad de aprendizaje. Me adapto fácilmente a los nuevos desafíos y estoy siempre dispuesta a seguir creciendo en el ámbito tecnológico.
