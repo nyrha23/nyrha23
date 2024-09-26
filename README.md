@@ -12,7 +12,7 @@ Soy una apasionada de la tecnología con un camino profesional poco convencional
 Sin embargo, mi verdadera pasión siempre fue la tecnología. Lo que comenzó como un simple blog de pasatiempos se convirtió en el catalizador de mi cambio de carrera. En 2012, di mis primeros pasos en el sector IT con un curso de Desarrollo Web en Google Actívate. A partir de ese momento, mi formación ha sido constante:
 
 > [!NOTE]
-> - **2002** Perito Mercantil  - Contabilidad Financiera, Derecho Mercantil | Instituto Tierra Santa.
+> - **2002** Perito Mercantil - Contabilidad Financiera, Derecho Mercantil | Instituto Tierra Santa.
 > - **2000-2012** Formación profesional en diversos cursos e institutos del sector Estética y Terapias Holísticas.
 > - **2012** Desarrollo Web | Google Actívate.
 > - **2014-2016** Organización de Eventos - Protocolo y Ceremonial, Relaciones Públicas, Diseño, Marketing y Publicidad | COE.
@@ -20,10 +20,10 @@ Sin embargo, mi verdadera pasión siempre fue la tecnología. Lo que comenzó co
 > - **2019** Fullstack y app mobile dev - Bootstrap, Java, PHP, MySQL | CAC - Agencia de Aprendizaje.
 > - **2022** Diseño UX-UI - Photoshop, Figma, Canva | CAC - Agencia de Aprendizaje.
 > - **2022** Fullstack con Metodología Scrum - Bootstrap, Python y Django | CAC - Agencia de Aprendizaje.
-> - **2024** Testing QA y Automatizacion | CAC - Agencia de Habilidades para el Futuro.
+> - **2024** Testing QA y Automatizacion | Agencia de Habilidades para el Futuro.
 > - **2024** Formación ONE G6 - Oracle Next Education | Alura Latam. _Cursando actualmente._
-> - **2024** Diseño UX-UI | CAC - Agencia de Habilidades para el Futuro. _Cursando actualmente._
-> - **2023-2025** Tecnicatura Superior en Desarrollo de Software | IFTS Nº 29. _Cursando actualmente._
+> - **2024** Diseño UX-UI | Agencia de Habilidades para el Futuro. _Cursando actualmente._
+> - **2023** Tecnicatura Superior en Desarrollo de Software | IFTS Nº 29. _Cursando actualmente._
 
 Mi camino no ha sido lineal, pero mi determinación me ha impulsado a seguir adelante. Soy una persona creativa, apasionada y con una gran capacidad de aprendizaje. Me adapto fácilmente a los nuevos desafíos y estoy siempre dispuesta a seguir creciendo en el ámbito tecnológico.
 
