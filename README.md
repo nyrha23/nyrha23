@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/nyrha23-C71585?style=flat-square&logo=github&logoColor=white&labelColor=101010)](https://github.com/nyrha23) 
 [![DiscordUser](https://img.shields.io/badge/nyrha23-7B68EE?style=flat-square&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/) 
-[![LinkedIn](https://img.shields.io/badge/Trinidad_Pasi-4169E1?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/trinidad-pasi/) 
+[![LinkedIn](https://img.shields.io/badge/Trinidad_Pasi-4169E1?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/trinidadpasi/) 
 [![Instagram](https://img.shields.io/badge/nyrha23-FF7F50?style=flat-square&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/nyrha23/) 
 
 ## De la belleza al código: mi pasión por la tecnología
@@ -23,9 +23,9 @@ Sin embargo, mi verdadera pasión siempre fue la tecnología. Lo que comenzó co
 > - **2022** Diseño UX-UI - Photoshop, Figma, Canva | CAC - Agencia de Aprendizaje.
 > - **2022** Fullstack con Metodología Scrum - Bootstrap, Python y Django | CAC - Agencia de Aprendizaje.
 > - **2024** Testing QA y Automatizacion | Agencia de Habilidades para el Futuro.
-> - **2024** Formación ONE G6 - Oracle Next Education | Alura Latam. _Cursando actualmente._
+> - **2024** Formación ONE G6 - Oracle Next Education | Alura Latam.
 > - **2024** Diseño UX-UI | Agencia de Habilidades para el Futuro. _Cursando actualmente._
-> - **2023** Tecnicatura Superior en Desarrollo de Software | IFTS Nº 29. _Cursando actualmente._
+> - **2023-2025** Tecnicatura Superior en Desarrollo de Software | IFTS Nº 29. _Cursando actualmente._
 
 Mi camino no ha sido lineal, pero mi determinación me ha impulsado a seguir adelante. Soy una persona creativa, apasionada y con una gran capacidad de aprendizaje. Me adapto fácilmente a los nuevos desafíos y estoy siempre dispuesta a seguir creciendo en el ámbito tecnológico.
 
