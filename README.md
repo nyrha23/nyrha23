@@ -1,6 +1,6 @@
 # Hola, mi nombre es Trinidad Pasi 👋
 ![ImagenPerfil](/img/banner_github_nyrha23.jpg) 
-> FullStack Dev | UX/UI Designer & Dev | QA QC Tester | Software Developer 
+> FullStack Dev | QA QC Tester | UX/UI Designer & Dev | Software Developer 
 
 [![DiscordUser](https://img.shields.io/badge/nyrha23-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/) 
 [![Instagram](https://img.shields.io/badge/nyrha23-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/nyrha23/) 
@@ -23,7 +23,7 @@ Sin embargo, mi verdadera pasión siempre fue la tecnología. Lo que comenzó co
 > - **2022** Diseño UX-UI - Photoshop, Figma, Canva | CAC - Agencia de Aprendizaje.
 > - **2022** Fullstack con Metodología Scrum - Bootstrap, Python y Django | CAC - Agencia de Aprendizaje.
 > - **2024** Testing QA y Automatizacion | Agencia de Habilidades para el Futuro.
-> - **2024** Formación ONE G6 - Oracle Next Education | Alura Latam.
+> - **2024** Formación ONE G6 - AlumniONE | Oracle Next Education - Alura Latam.
 > - **2024** Diseño UX | TalentoTech - Agencia de Habilidades para el Futuro.
 > - **2024** Cloud Foundations | AWS Academy.
 > - **2025** Cloud Security Foundations | AWS Academy.
